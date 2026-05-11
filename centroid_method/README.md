@@ -1,23 +1,6 @@
 # Ependymal_cells_cilia_beating
 Base code for analysing the beating of cilia in ependymal cells.
 
-# Software
-
-MATLAB version 2024b.
-Add-ons: 
-- Computer Vision Toolbox (v24.2)
-- Control System Toolbox (v24.2)
-- Curve Fitting Toolbox (v24.2)
-- DSP System Toolbox (v24.2)
-- Image Processing Toolbox (v24.2)
-- Instrument Control Toolbox (v24.2)
-- Optimization Toolbox (v24.2)
-- Parallel Computing Toolbox (v24.2)
-- Signal Processing Toolbox (v24.2)
-- Simulink (v24.2)
-- Statistics and Machine Learning Toolbox (v24.2)
-- Symbolic Math Toolbox (v24.2)
-
 # Instructions
 1.	Add the path to the MATLAB folder and select the folder containing the codes for beads analysis.
 2.	Open in MATLAB the file beadWFmostFrequentTimeLapse.
